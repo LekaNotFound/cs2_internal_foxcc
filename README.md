@@ -4,7 +4,7 @@ A free and open-source internal cheat for Counter-Strike 2, written in C++, work
 
 If you like this project, please give me a star :D
 
-![image](https://github.com/jhl337/cs2_internal_foxcc/blob/main/showcase.png)
+![image](https://github.com/jhl337/cs2_internal_foxcc/blob/master/showcase.png)
 
 ## Features
 
@@ -48,4 +48,5 @@ The purpose of this project is to learn, please ignore the use for illegal purpo
 >
 > 3. Inject the dll to game (using Manual Map)
 >
+
 > 4. Waiting for load and enjoy!
